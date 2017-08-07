@@ -5,4 +5,5 @@ def aaa():
     print("6666")
     print("123")
     print("6666")
+
 aaa()
