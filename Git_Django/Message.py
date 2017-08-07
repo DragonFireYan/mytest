@@ -1,9 +1,9 @@
 def aaa():
     print("dsb")
     print("6666")
-    print("68886")
+    print("这里修复了一个Bug")#此前是68886模拟这里是Bug
     print("6666")
-    print("123")
+    print("这里修复了一个bug")#此前是123模拟这里是Bug
     print("6666")
 
 aaa()
